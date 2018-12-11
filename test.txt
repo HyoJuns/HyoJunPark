@@ -1,0 +1,2 @@
+Create Text.txt 
+문제1. 학생이름 만든 후 로컬 PC 클론
